@@ -1,27 +1,50 @@
 .container{
-    background-color:rgb(12, 9, 12);
     align-items: center;
-    display: grid;
-    color: #ffffff;
-    margin: 60px;
-    padding: 60px;
-    width: 30%
+    margin:150px;
+
+}
+
+.colors{
+    display: flex;
+    font-size: 40px;
+    align-items: center;
+    
     
 }
-name-label {
-    color: blue;
+.gray{
+    background-color: gray;
+    border: 2px solid black;
+    border-radius: 50px;
+    width: 50px;
+    height: 50px;
+    margin-left: 10px;
 }
 
-
-
-.send{
-   
-background-color: red;
-color: white;
+.white{
+    background-color: white;
+    border: 2px solid black;
+    border-radius: 50px;
+    width: 50px;
+    height: 50px;
+    margin-left: 10px;
 }
 
-.reset{
-
+.blue{
+    background-color: blue;
+    border: 2px solid black;
+    border-radius: 50px;
+    width: 50px;
+    height: 50px;
+    margin-left: 10px;
+}
+.yellow{
     background-color: yellow;
-    color: black;
+    border: 2px solid black;
+    border-radius: 50px;
+    width: 50px;
+    height: 50px;
+    margin-left: 10px;
+}
+p{
+    text-align: center;
 }
