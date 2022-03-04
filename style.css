@@ -1,0 +1,27 @@
+.container{
+    background-color:rgb(12, 9, 12);
+    align-items: center;
+    display: grid;
+    color: #ffffff;
+    margin: 60px;
+    padding: 60px;
+    width: 30%
+    
+}
+name-label {
+    color: blue;
+}
+
+
+
+.send{
+   
+background-color: red;
+color: white;
+}
+
+.reset{
+
+    background-color: yellow;
+    color: black;
+}
